@@ -675,6 +675,6 @@ MIT
 
 [1]: http://css-tricks.com/bad-code-dogmatism-etc/ "Bad Code, Dogmatism, etc"
 [2]: http://smacss.com/ "SMACSS modular CSS architecture"
-[3]: https://github.com/bevacqua/css/issues "bevacqua/css Issues on GitHub"
+[3]: https://github.com/printdotio/css/issues "printdotio/css Issues on GitHub"
 [4]: http://necolas.github.io/normalize.css/ "A modern, HTML5-ready alternative to CSS resets"
 [5]: http://bradfrostweb.com/blog/mobile/the-many-faces-of-mobile-first/ "The Many Faces of Mobile First"
